@@ -1,4 +1,5 @@
 # TYPING SPEED
+This is a really cool project
 Counts the number of words you typed on the textarea in 10seconds.
 
 # DEMO
